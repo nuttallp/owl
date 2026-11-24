@@ -4,7 +4,7 @@ numpy==1.24.4
 python-dotenv==1.0.0
 akshare==1.11.57
 matplotlib==3.7.3
-pydantic==1.10.12
+pydantic==1.10.13
 tqdm==4.66.1
 plotly==5.14.1
 requests==2.31.0
