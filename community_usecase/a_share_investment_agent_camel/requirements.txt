@@ -15,7 +15,7 @@ statsmodels==0.14.0
 pyecharts==2.0.4
 jieba==0.42.1
 ta-lib==0.4.28
-pytest==7.4.3
+pytest==9.0.3
 black==23.11.0
 isort==5.12.0
 mypy==1.7.1
